@@ -84,10 +84,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Hi! Here is my contact information
       # Contact (add or remove contact options as necessary)
       email: di.liu-9@postgrad.manchester.ac.uk
-      phone: 07900451963
+      phone: '07900451963'
       # appointment_url: 'https://calendly.com'
       address:
         street: Oxford Rd
