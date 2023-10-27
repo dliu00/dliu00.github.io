@@ -84,7 +84,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Hi! Here is my contact information
+        Hi! Here is my contact information, if you like to know more about me, please feel free to contact:)
       # Contact (add or remove contact options as necessary)
       email: di.liu-9@postgrad.manchester.ac.uk
       phone: '07900451963'
