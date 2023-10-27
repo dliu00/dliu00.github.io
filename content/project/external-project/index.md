@@ -1,6 +1,6 @@
 ---
 title: Gesture-Controlled Turtle Movement
-summary: To control the turtle of Turtlesim to follow different trajectories using gesture recognition.
+summary: To control the turtle of Turtlesim to follow different trajectories using gesture recognition.Click here to watch a YouTube video.
 # tags:
 #  - Demo
 # date: "2016-04-27T00:00:00Z"
