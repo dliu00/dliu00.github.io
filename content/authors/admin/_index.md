@@ -53,9 +53,9 @@ skills:
       percent: 80
       icon: python
       icon_pack: fab
-    - name: Data Science
+    - name: Automatic Control
       description: ''
-      percent: 100
+      percent: 60
       icon: chart-line
       icon_pack: fas
     - name: SQL
