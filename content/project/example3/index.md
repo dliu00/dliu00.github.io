@@ -1,6 +1,6 @@
 ---
 title: Image Classification
-summary: Image Classification with CIFAR-100 Dataset. The example is a picture of a cat.
+summary: Build a convolutional neural network for image classification on the CIFAR-100 dataset. The example is a picture of a cat.
 # tags:
 #  - Demo
 # date: "2016-04-27T00:00:00Z"
