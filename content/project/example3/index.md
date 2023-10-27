@@ -1,6 +1,6 @@
 ---
 title: Image Classification
-summary: To control the turtle of Turtlesim to follow different trajectories using gesture recognition.  Click to watch a YouTube video.
+summary: Image Classification with CIFAR-100 Dataset. The example is a picture of a cat.
 # tags:
 #  - Demo
 # date: "2016-04-27T00:00:00Z"
