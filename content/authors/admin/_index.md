@@ -58,9 +58,9 @@ skills:
       percent: 60
       icon: chart-line
       icon_pack: fas
-    - name: SQL
+    - name: Circuit Theory
       description: ''
-      percent: 40
+      percent: 70
       icon: database
       icon_pack: fas
   - name: Hobbies
@@ -74,13 +74,8 @@ skills:
         icon_pack: fas
       - name: Cats
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 70
+        icon: music
         icon_pack: fas
 
 # Social/Academic Networking
