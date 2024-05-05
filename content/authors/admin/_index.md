@@ -105,11 +105,12 @@ social:
     link: https://github.com/dliu00
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/DI-LIU-b4a865307
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hello! I am a postgraduate student majoring in robotics, currently studying at the University of Manchester. I'm interested in robotics, computer programming, and circuits, and I aspire to become a robotics engineer after graduation.
+Hello! I am a postgraduate student majoring in robotics, currently studying at the University of Manchester. I'm interested in robotics, computer programming, especially in computer vision, and I aspire to become a robotics engineer after graduation.
 {style="text-align: justify;"}
 
