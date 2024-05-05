@@ -1,6 +1,6 @@
 ---
 title: Line-Following Smart Car
-summary: Based on myRIO, the three-wheeled car is able to automatically move along a black track line.   Click to watch a YouTube video.
+summary: Based on myRIO, the three-wheeled car is able to automatically move along a black track line. The testing environment is a laboratory, black lines are pre-laid on the ground. I mainly worked on car movement controlling.  Click to watch a YouTube video.
 # tags:
  #  - Deep Learning
 # date: '2016-04-27T00:00:00Z'
