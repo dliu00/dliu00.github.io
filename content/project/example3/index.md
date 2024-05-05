@@ -1,6 +1,6 @@
 ---
 title: Image Classification
-summary: Build a convolutional neural network for image classification on the CIFAR-100 dataset. The example is a picture of a cat.
+summary: The CIFAR-100 dataset consists of 100 classes. In the project, I build a convolutional neural network for image classification on the CIFAR-100 dataset and the accuracy reaches 54% on validation set. The example is a picture of a cat.
 # tags:
 #  - Demo
 # date: "2016-04-27T00:00:00Z"
