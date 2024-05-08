@@ -105,7 +105,7 @@ social:
     link: https://github.com/dliu00
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/DI-LIU-b4a865307
+    link: https://www.linkedin.com/in/DI-LIU-b4a865307/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
